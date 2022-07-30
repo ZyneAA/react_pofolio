@@ -1,5 +1,5 @@
 import React from 'react';
-import QOP from "..Pictures/QOP.jpg";
+import QOP from "../Pictures/QOP.jpg";
 
 function Head() {
     return (
